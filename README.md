@@ -6,6 +6,6 @@
 
 => We can take a new account as well and delete the old account as well.
 
-=> After using the services we are able to exit the system.
+=> After using the services we are able to exit .
 
 => Developed using python language.
